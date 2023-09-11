@@ -6,6 +6,6 @@ framework module LibITR {
 }
 
 module LibITR.Swift {
-    header "LibITR-Swift.h"
-    requires objc
+  header "LibITR-Swift.h"
+  requires objc
 }

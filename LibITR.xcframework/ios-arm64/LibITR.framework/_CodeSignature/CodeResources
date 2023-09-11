@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rGuclzj7QMGVwGhdFBvW+wp7+oYtlk+vjPD969dNoWk=
+			FRQqRYjuCDQyyZlriPY4DrqC+mV4LVaE93ihF6v/SNw=
 			</data>
 		</dict>
 		<key>Headers/LibITR.h</key>
@@ -25,53 +25,46 @@
 			YI0Q1Hn8TodMWTUzvrV7a9GmmaCzY2/HFQQvfy50iJg=
 			</data>
 		</dict>
+		<key>Modules/LibITR.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5df7dIn2B75CGdrEDu/H9cZTvDGppxV8zIOgqRgiBqI=
+			</data>
+		</dict>
+		<key>Modules/LibITR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OyerSu2LZp/4xwrIT8RnPCyBMBANyHnmSCL6HTW1FJo=
+			</data>
+		</dict>
 		<key>Modules/LibITR.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ne6uZ5XEwUN+tR7CSLtPw7GsZyXUGNynmw32wtRQg0=
+			MjplnXLNn1CxiW6BHViOrMi34pb6Qlr9y6CauMTX0K0=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5SlEjmRMTK+dYhESJPojk7FYDJA4i3ShgoICAeaMAXo=
+			OyerSu2LZp/4xwrIT8RnPCyBMBANyHnmSCL6HTW1FJo=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NIs8K5eGjnu2oTDocZuFsNhfbfOMSJN5gU9LCFcWrHI=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2ne6uZ5XEwUN+tR7CSLtPw7GsZyXUGNynmw32wtRQg0=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5SlEjmRMTK+dYhESJPojk7FYDJA4i3ShgoICAeaMAXo=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NIs8K5eGjnu2oTDocZuFsNhfbfOMSJN5gU9LCFcWrHI=
+			Sa+0vm+vnlYKOYxnmVTxSk1yRez2eKdpGI2D7p3EAcM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UqMYYDHwXHKanQkk7U3wwEzp3zDQ5vJcM7za2pT8J6w=
+			a4+gxdn+wJjT5uj0oVIKQ6XXeNwQz1wC+RJr6HHrg8c=
 			</data>
 		</dict>
 		<key>Resources/Lion.png</key>

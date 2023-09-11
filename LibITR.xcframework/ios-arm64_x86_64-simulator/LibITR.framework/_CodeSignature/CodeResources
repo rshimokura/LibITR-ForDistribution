@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hs+uSnjG9BDegvBX9i4qsY3AZ5ueh8+XRKJGXsX91Hw=
+			STCaB+UeaEtvw8ZSykX2N9CCJLTXf7cdhZIRBx6pPQE=
 			</data>
 		</dict>
 		<key>Headers/LibITR.h</key>
@@ -25,95 +25,81 @@
 			YI0Q1Hn8TodMWTUzvrV7a9GmmaCzY2/HFQQvfy50iJg=
 			</data>
 		</dict>
+		<key>Modules/LibITR.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5df7dIn2B75CGdrEDu/H9cZTvDGppxV8zIOgqRgiBqI=
+			</data>
+		</dict>
+		<key>Modules/LibITR.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GnyZYpIAyX5+J6mDu+WWK40s52ZARTi35DjGqML4raw=
+			</data>
+		</dict>
 		<key>Modules/LibITR.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RGJn8ZAukS/BSVWjuY3Z4qe5IW0dYHhuVvZ9UrBBbS0=
+			08U6oR6ormi0xhqpiOcagVHsJSEmdE4xzdSkaiH3+NM=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aiVd+Y4O1FDvlmFZqriDG8/og7nXTjZFUjTit4OfTEM=
+			GnyZYpIAyX5+J6mDu+WWK40s52ZARTi35DjGqML4raw=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHhZtWVhGGpLMRPbcQOVo/js60CBzKRpQSLBU7mNwq8=
+			8ijhuVXoMRdeR6FDe7nSM3tPcEDPExnIBd40mU8KQqw=
 			</data>
 		</dict>
-		<key>Modules/LibITR.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/LibITR.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RGJn8ZAukS/BSVWjuY3Z4qe5IW0dYHhuVvZ9UrBBbS0=
+			5df7dIn2B75CGdrEDu/H9cZTvDGppxV8zIOgqRgiBqI=
 			</data>
 		</dict>
-		<key>Modules/LibITR.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/LibITR.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aiVd+Y4O1FDvlmFZqriDG8/og7nXTjZFUjTit4OfTEM=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XHhZtWVhGGpLMRPbcQOVo/js60CBzKRpQSLBU7mNwq8=
+			7OVXGDbVBUcpR2bIlvXPp7HxSRRWHGjQ+yOMOnf44XU=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pvc+hcSnUT4BQ10tsSFcDn76Y/dbIdN4aeWPrJi1J3Y=
+			ZIPafSzXE6FhxEPkT7ISex2ehLA4/qjru1Zz6d06Keg=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4A7Q2gjScD90deKh54q9c7NYqUBo2PAyeStGjKw6lqQ=
+			7OVXGDbVBUcpR2bIlvXPp7HxSRRWHGjQ+yOMOnf44XU=
 			</data>
 		</dict>
 		<key>Modules/LibITR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/KVicL8JoWL2CJwoOQERi6zDyt4aTByZlbUULJQHFAQ=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Pvc+hcSnUT4BQ10tsSFcDn76Y/dbIdN4aeWPrJi1J3Y=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4A7Q2gjScD90deKh54q9c7NYqUBo2PAyeStGjKw6lqQ=
-			</data>
-		</dict>
-		<key>Modules/LibITR.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/KVicL8JoWL2CJwoOQERi6zDyt4aTByZlbUULJQHFAQ=
+			0eIPUXwQRrN8qvMpXU58kRqiBl2wp+zeCom0YAL0jyI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UqMYYDHwXHKanQkk7U3wwEzp3zDQ5vJcM7za2pT8J6w=
+			a4+gxdn+wJjT5uj0oVIKQ6XXeNwQz1wC+RJr6HHrg8c=
 			</data>
 		</dict>
 		<key>Resources/Lion.png</key>
