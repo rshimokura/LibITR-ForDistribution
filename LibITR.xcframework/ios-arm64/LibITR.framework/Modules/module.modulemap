@@ -1,0 +1,11 @@
+framework module LibITR {
+  umbrella header "LibITR.h"
+
+  export *
+  module * { export * }
+}
+
+module LibITR.Swift {
+    header "LibITR-Swift.h"
+    requires objc
+}

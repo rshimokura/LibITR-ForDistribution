@@ -1,0 +1,15 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name LibITR
+import Cartography
+@_exported import LibITR
+import Swift
+import UIKit
+@objc @_inheritsConvenienceInitializers public class PrideLand : ObjectiveC.NSObject {
+  public func getKing() -> Swift.String
+  public func getKingPicture() -> UIKit.UIImage?
+  public func setCenter(view: UIKit.UIView, image: UIKit.UIImageView)
+  public func setKing(view: UIKit.UIView)
+  @objc override dynamic public init()
+  @objc deinit
+}
