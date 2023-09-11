@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "LibITR-ForDistribution",
+    name: "LibITR",
     platforms: [
         .iOS(.v14)
     ],
@@ -27,7 +27,8 @@ let package = Package(
             name: "LibITR",
             dependencies: [
                 .product(name: "Cartography", package: "Cartography"),
-            ]
+            ],
+            path: "LibITR.xcframework"
         ),
     ]
 )
