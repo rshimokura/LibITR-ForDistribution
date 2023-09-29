@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .binaryTarget(name: "AlyciaITR", path: "AlyciaITR.xcframework"),
-//        .binaryTarget(name: "LibITR", url: "https://github.com/rshimokura/LibITR-ForDistribution/archive/refs/tags/1.2.3.zip", checksum: "af6a3f6029a42ad9b3f46676b52a40fad15506127c3b9867afcb098a6cb52978"),
+//        .binaryTarget(name: "AlyciaITR", path: "AlyciaITR.xcframework"),
+        .binaryTarget(name: "AlyciaITR", url: "https://github.com/rshimokura/AlyciaITR/releases/download/0.0.13/AlyciaITR.xcframework.zip", checksum: "c7aed3aeb2b41a03ab60808de2180029c09801bf57b1ba6e3c125502bd94f2e3")
     ]
 )
